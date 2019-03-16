@@ -52,6 +52,7 @@ p.lead {
   font-weight: 500;
   font-family: 'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   font-size: 1.25rem;
+  color : #5F90CB;
 }
 
 .social-icons a {
